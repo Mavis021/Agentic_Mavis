@@ -1,0 +1,19 @@
+__pycache__
+
+.env
+.zip
+.vscode
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python virtual environments
+venv/
+.env
+
+faiss_index_react
+
+langchain-docs/
+
+chat_with_docs/
